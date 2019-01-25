@@ -1,0 +1,16 @@
+500, 500, thekongresources/kongbackground.jpg
+400,130,10,80,thekongresources/kongladder.png
+275,230,10,30,thekongresources/kongladder.png
+225,280,10,60,thekongresources/kongladder.png
+50,430,10,40,thekongresources/kongladder.png
+*
+200,50,100,5,thekongresources/kongplatform.png
+0,100,150,5,thekongresources/kongplatform.png
+225,125,275,5,thekongresources/kongplatform.png
+0,175,175,5,thekongresources/kongplatform.png
+150,225,350,5,thekongresources/kongplatform.png
+0,275,325,5,thekongresources/kongplatform.png
+375,325,125,5,thekongresources/kongplatform.png
+175,375,325,5,thekongresources/kongplatform.png
+0,425,275,5,thekongresources/kongplatform.png
+*
